@@ -1,0 +1,6 @@
+framework module Pods_Goga1 {
+  umbrella header "Pods-Goga1-umbrella.h"
+
+  export *
+  module * { export * }
+}
